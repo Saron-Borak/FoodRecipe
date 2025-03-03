@@ -1,0 +1,163 @@
+<resources>
+    <string name="app_name">FoodRecipe</string>
+    
+    <!-- Auth Strings -->
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="full_name">Full Name</string>
+    <string name="app_logo">App Logo</string>
+    <string name="create_account">Create Account</string>
+    <string name="new_user_register_here">New user? Register here</string>
+    <string name="already_have_account_login_here">Already have an account? Login here</string>
+    <string name="login_with_phone">Login with phone number</string>
+    <string name="login_with_email">Login with email</string>
+    <string name="phone_number_with_country_code">Phone Number (with country code)</string>
+    <string name="send_verification_code">Send Verification Code</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="resend_otp">Resend OTP</string>
+    
+    <!-- Recipe Strings -->
+    <string name="add_recipe">Add Recipe</string>
+    <string name="edit_recipe">Edit Recipe</string>
+    <string name="recipe_name">Recipe Name</string>
+    <string name="recipe_description">Recipe Description</string>
+    <string name="cooking_time">Cooking Time (minutes)</string>
+    <string name="cooking_time_minutes">Cooking Time (minutes)</string>
+    <string name="serving_size">Serving Size</string>
+    <string name="category">Category</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="instructions">Instructions</string>
+    <string name="add_ingredient">Add Ingredient</string>
+    <string name="add_instruction">Add Instruction</string>
+    <string name="add_tag">Add Tag</string>
+    <string name="youtube_video_id">YouTube Video ID</string>
+    <string name="youtube_video_id_optional">YouTube Video ID (Optional)</string>
+    <string name="add_image">Add Image</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="save_recipe">Save Recipe</string>
+    <string name="recipe_image">Recipe Image</string>
+    <string name="recipe_category">Recipe Category</string>
+    <string name="quantity">Quantity</string>
+    <string name="unit">Unit (optional)</string>
+    <string name="ingredient_name">Ingredient Name</string>
+    <string name="instruction_step">Instruction Step</string>
+    <string name="ingredient_category">Ingredient Category</string>
+    <string name="add_new_ingredient">Add New Ingredient</string>
+    <string name="add_new_instruction">Add New Instruction</string>
+    <string name="recipe_added_successfully">Recipe added successfully!</string>
+    <string name="recipe_add_failed">Failed to add recipe. Please try again.</string>
+    <string name="required_field">This field is required</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    
+    <!-- Main Menu Strings -->
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="favorites">Favorites</string>
+    <string name="Myingredients">My Ingredients</string>
+    <string name="profile">Profile</string>
+    
+    <!-- Profile Strings -->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="update_profile_photo">Update Profile Photo</string>
+    <string name="dietary_preferences">Dietary Preferences</string>
+    <string name="notification_settings">Notification Settings</string>
+    <string name="logout">Logout</string>
+    <string name="enable_notifications">Enable Notifications</string>
+    
+    <!-- Search Strings -->
+    <string name="search_by_name">Search by name…</string>
+    <string name="filter_by_category">Filter by Category</string>
+    <string name="filter_by_time">Filter by Cooking Time</string>
+    <string name="filter_by_serving">Filter by Serving Size</string>
+    <string name="apply_filters">Apply Filters</string>
+    <string name="clear_filters">Clear Filters</string>
+    <string name="cooking_time_filter">Max Time: %d min</string>
+    <string name="serving_size_filter">Servings: %d</string>
+    <string name="cooking_time_filter_title">Set Maximum Cooking Time</string>
+    <string name="serving_size_filter_title">Set Serving Size</string>
+    <string name="select_max_cooking_time">Select maximum cooking time in minutes:</string>
+    <string name="select_serving_size">Select number of servings:</string>
+    <string name="minutes_value">%d minutes</string>
+    <string name="apply">Apply</string>
+    <string name="no_search_results">No recipes match your search criteria</string>
+    
+    <!-- Recipe Detail Strings -->
+    <string name="recipe_details">Recipe Details</string>
+    <string name="nutrition_values">Nutrition Values</string>
+    <string name="video_instructions">Video Instructions</string>
+    <string name="add_to_favorites">Add to Favorites</string>
+    <string name="remove_from_favorites">Remove from Favorites</string>
+    <string name="share_recipe">Share Recipe</string>
+    <string name="add_note">Add Note</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="notes">Notes</string>
+    <string name="save_note">Save Note</string>
+    
+    <!-- Ingredient Management Strings -->
+    <string name="my_ingredients">My Ingredients</string>
+    <string name="my_ingredient_name">Ingredient Name</string>
+    <string name="my_ingredient_category">Ingredient Category</string>
+    <string name="add_ingredient_to_inventory">Add Ingredient to Inventory</string>
+    <string name="remove_ingredient">Remove Ingredient</string>
+    <string name="suggested_recipes">Suggested Recipes</string>
+    
+    <!-- Categories -->
+    <string name="category_breakfast">Breakfast</string>
+    <string name="category_lunch">Lunch</string>
+    <string name="category_dinner">Dinner</string>
+    <string name="category_dessert">Dessert</string>
+    <string name="category_snack">Snack</string>
+    <string name="category_drink">Drink</string>
+    
+    <!-- Dietary Preferences -->
+    <string name="vegetarian">Vegetarian</string>
+    <string name="vegan">Vegan</string>
+    <string name="gluten_free">Gluten Free</string>
+    <string name="dairy_free">Dairy Free</string>
+    <string name="low_carb">Low Carb</string>
+    <string name="keto">Keto</string>
+    <string name="paleo">Paleo</string>
+    
+    <!-- Error Messages -->
+    <string name="error_uploading_image">Error uploading image</string>
+    <string name="error_saving_recipe">Error saving recipe</string>
+    <string name="error_loading_recipes">Error loading recipes</string>
+    <string name="error_ingredient_required">Ingredient name is required</string>
+    <string name="error_instruction_required">Instruction is required</string>
+    <string name="error_recipe_name_required">Recipe name is required</string>
+    <string name="error_cooking_time_required">Cooking time is required</string>
+    <string name="error_serving_size_required">Serving size is required</string>
+    <string name="error_category_required">Category is required</string>
+    
+    <!-- Success Messages -->
+    <string name="recipe_saved">Recipe saved successfully</string>
+    <string name="profile_updated">Profile updated successfully</string>
+    <string name="ingredient_added">Ingredient added to your inventory</string>
+    <string name="ingredient_removed">Ingredient removed from your inventory</string>
+    <string name="added_to_favorites">Added to favorites</string>
+    <string name="removed_from_favorites">Removed from favorites</string>
+    <string name="note_saved">Note saved successfully</string>
+    
+    <!-- Ingredient Categories Array -->
+    <string-array name="ingredient_categories">
+        <item>Vegetables</item>
+        <item>Fruits</item>
+        <item>Meat</item>
+        <item>Poultry</item>
+        <item>Seafood</item>
+        <item>Dairy</item>
+        <item>Grains</item>
+        <item>Nuts and Seeds</item>
+        <item>Herbs and Spices</item>
+        <item>Oils and Vinegars</item>
+        <item>Condiments</item>
+        <item>Baking</item>
+        <item>Other</item>
+    </string-array>
+</resources>

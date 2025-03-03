@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Ingredient Categories -->
+    <string name="category_meat">Meat</string>
+    <string name="category_seafood">Seafood</string>
+    <string name="category_vegetable">Vegetable</string>
+    <string name="category_fruit">Fruit</string>
+    <string name="category_dairy">Dairy</string>
+    <string name="category_grain">Grain</string>
+    <string name="category_herb">Herb</string>
+    <string name="category_spice">Spice</string>
+    <string name="category_sauce">Sauce</string>
+    <string name="category_other">Other</string>
+</resources>
